@@ -119,4 +119,5 @@ public class ChiTietSP {
     public Object[] toDataRow(){
         return new Object[]{maSP,tenSP,namBH,soLuongTon,giaNhap,giaBan};
     }
+    //dhfuedjshyfrrgrw
 }
